@@ -9728,7 +9728,6 @@ do
   python3 /home/ubuntu/Desktop/chandellier/ZYME.py &
   python3 /home/ubuntu/Desktop/chandellier/ZYNE.py &
   python3 /home/ubuntu/Desktop/chandellier/ZYXI.py &
-  python3 /home/ubuntu/Desktop/chandellier/%modif%.py &
   python3 /home/ubuntu/Desktop/chandellier/%launcher%
 
 clear
